@@ -1,0 +1,9 @@
+Title:A. Elimination
+Time Limit:time limit per test1 second
+Memory Limit:memory limit per test256 megabytes
+Inputs:The first line contains two integers c and d (1 ≤ c, d ≤ 100) — the number of problems in the main and additional rounds, correspondingly. The second line contains two integers n and m (1 ≤ n, m ≤ 100). Finally, the third line contains an integer k (1 ≤ k ≤ 100) — the number of the pre-chosen winners. 
+Outputs:In the first line, print a single integer — the minimum number of problems the jury needs to prepare.
+Input  10 7 2 1 
+Output 2 
+Input  2 2 1 2 
+Output 0 

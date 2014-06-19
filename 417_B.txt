@@ -1,0 +1,11 @@
+Title:B. Crash
+Time Limit:time limit per test1 second
+Memory Limit:memory limit per test256 megabytes
+Inputs:The first line of the input contains an integer n (1 ≤ n ≤ 105) — the number of solutions. Each of the following n lines contains two integers separated by space x and k (0 ≤ x ≤ 105; 1 ≤ k ≤ 105) — the number of previous unique solutions and the identifier of the participant.
+Outputs:A single line of the output should contain «YES» if the data is in chronological order, and «NO» otherwise.
+Input  0 1 1 1 
+Output YES 
+Input  0 1 1 2 1 1 0 2 
+Output NO 
+Input  0 1 1 1 0 1 0 2 
+Output YES 

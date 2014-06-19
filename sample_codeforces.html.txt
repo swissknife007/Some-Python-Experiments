@@ -1,0 +1,8 @@
+Title:C. Football
+Time Limit:time limit per test1 second
+Memory Limit:memory limit per test256 megabytes
+Inputs:InputThe first line contains two integers — n and k (1 ≤ n, k ≤ 1000).
+Outputs:OutputIn the first line print an integer m — number of the played games. The following m lines should contain the information about all the matches, one match per line. The i-th line should contain two integers ai and bi (1 ≤ ai, bi ≤ n; ai ≠ bi). The numbers ai and bi mean, that in the i-th match the team with number ai won against the team with number bi. You can assume, that the teams are numbered from 1 to n.If a tournir that meets the conditions of the problem does not exist, then print -1.
+Sample Tests:
+Input  1 
+Output 3 1 2 2 3 3 1 

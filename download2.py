@@ -1,8 +1,8 @@
 import urllib2
 import os
-counter = 3999001
+counter = 1
 headers = str({ 'User-Agent' : 'Mozilla/5.0' })
-while counter<=3999004:
+while counter<=20:
 	try:
 		url_name = "http://www.glassdoor.com/Reviews/Employee-Review-Adobe-RVW" + str(counter) + ".htm"
 		response = urllib2.urlopen(url_name,headers)

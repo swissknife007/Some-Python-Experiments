@@ -1,0 +1,9 @@
+Title:E. Square Table
+Time Limit:time limit per test1 second
+Memory Limit:memory limit per test256 megabytes
+Inputs:The first line contains two integers n and m (1 ≤ n, m ≤ 100)  — the size of the table. 
+Outputs:Print the table that meets the condition: n lines containing m integers, separated by spaces. If there are multiple possible answers, you are allowed to print anyone. It is guaranteed that there exists at least one correct answer.
+Input  1 
+Output 1
+Input  2 
+Output 3 4

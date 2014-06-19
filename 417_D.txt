@@ -1,0 +1,11 @@
+Title:D. Cunning Gena
+Time Limit:time limit per test1 second
+Memory Limit:memory limit per test256 megabytes
+Inputs:The first line contains three integers n, m and b (1 ≤ n ≤ 100; 1 ≤ m ≤ 20; 1 ≤ b ≤ 109) — the number of Gena's friends, the number of problems and the cost of a single monitor.The following 2n lines describe the friends. Lines number 2i and (2i + 1) contain the information about the i-th friend. The 2i-th line contains three integers xi, ki and mi (1 ≤ xi ≤ 109; 1 ≤ ki ≤ 109; 1 ≤ mi ≤ m) — the desired amount of money, monitors and the number of problems the friend can solve. The (2i + 1)-th line contains mi distinct positive integers — the numbers of problems that the i-th friend can solve. The problems are numbered from 1 to m.
+Outputs:Print the minimum amount of money Gena needs to spend to solve all the problems. Or print -1, if this cannot be achieved.
+Input  2 1 100 1 1 2 100 2 1 1 
+Output 202 
+Input  2 5 100 1 1 1 100 1 1 2 200 1 2 1 2 
+Output 205 
+Input  2 1 1 1 1 1 
+Output -1 
