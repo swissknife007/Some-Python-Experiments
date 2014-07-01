@@ -3,7 +3,7 @@ import os
 from xmpp import Client,Iq,Node
 import sys
 username = "ajindal121"       
-password = "limerenceroger"
+password = "*************"
 domain = "gmail.com"
 
  
